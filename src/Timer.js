@@ -1,5 +1,3 @@
-import React from 'react';
-
 class Timer {
     constructor(name) {
         this.name = name;
